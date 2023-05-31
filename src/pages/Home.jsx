@@ -15,12 +15,13 @@ function Home() {
         style={{
           height: "400px",
           background:
-            "linear-gradient(#000, #00000030), url('https://designs.princesharma.in/wp-content/uploads/2021/08/Pizza-scaled.jpg')",
+            "linear-gradient(#000, #00000030), url('https://tofuu.getjusto.com/orioneat-local/resized2/jXdakdyD7GEeu8EEz-1200-1600.webp')",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
+          marginBottom: "10px",
         }}
       >
         <h1 className="text-light">Las mejores Pizzas</h1>
